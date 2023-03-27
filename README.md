@@ -16,6 +16,10 @@ It use "SSONET.dll" from Revit root folder to get the current user authorization
 
 ![thumbnail](readme/thumbnail.png)
 
+## Preview
+
+![preview](readme/preview.gif)
+
 ## License
 
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT). Please see the [License](License.md) file for full details
